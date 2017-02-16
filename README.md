@@ -4,7 +4,7 @@
 
 Run the application locally 
 
- - git clone https://github.com/vbondoo7/cutomer-account.git
+ - git clone https://github.com/vbondoo7/customer-comments.git
 
  - Import as maven project
 
